@@ -6,12 +6,9 @@ On the Internet, no-one knows you're a dog.
 専門: 高度情報処理→AI専攻　<br>
 スクール: Webデザイン専攻　<br>
 高校: 情報技術科　
-
-<!-- ## 持ってる資格
-C言語検定3級/情報技術検定3級/P検3級/LPI(730点) -->
-
+<!-- 
 ## 興味分野
-アプリ開発/匿名技術/ブロックチェーン/改造/脱獄
+アプリ開発/匿名技術/ブロックチェーン/改造/脱獄 -->
 
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -30,6 +27,8 @@ C言語検定3級/情報技術検定3級/P検3級/LPI(730点) -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  
+
   
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
@@ -84,5 +83,5 @@ Golang/Node.js/C++/Flutter/kubernetes/Terraform/ネットワークスペシャ�
 
 
 <p align="">
-  <img alt="trophy" height="90px" src="https://github-profile-trophy.vercel.app/?username=dev-satoshi&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy" />
+  <img alt="trophy" height="180px" src="https://github-profile-trophy.vercel.app/?username=dev-satoshi&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy" />
 </p>
