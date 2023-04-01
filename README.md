@@ -36,7 +36,7 @@ Illustrator/Photoshop/Dreamweaver/AdobeXD/Figma/Canva/AfterEffects/Lightroom/DaV
 <!-- ## 習得したい
 Golang/Node.js/C++/Flutter/kubernetes/Terraform/ネットワークスペシャリスト/応用情報/情報セキュリティスペシャリスト -->
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-satoshi&theme=tokyonight
+![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 <p align="">
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=dev-satoshi&show_icons=true&theme=tokyonight" />
