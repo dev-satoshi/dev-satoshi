@@ -43,4 +43,7 @@ Golang/Node.js/C++/Flutter/kubernetes/Terraform/ネットワークスペシャ�
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satoshi&langs_count=8&layout=compact&show_icons=true&theme=tokyonight" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev-satoshi&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="">
+  <img alt="trophy" height="90px" src="https://github-profile-trophy.vercel.app/?username=dev-satoshi&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy" />
+</p>
