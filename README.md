@@ -1,7 +1,6 @@
 # About Me
 
 Satoshi (2003〜)<br>
-On the Internet, no-one knows you're a dog.
 
 Specialty: Advanced information processing → AI major<br>
 School: Web design major<br>
