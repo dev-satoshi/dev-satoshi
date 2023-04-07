@@ -3,9 +3,12 @@
 Satoshi (2003〜)<br>
 On the Internet, no-one knows you're a dog.
 
-専門: 高度情報処理→AI専攻　<br>
+Specialty: Advanced information processing → AI major<br>
+School: Web design major<br>
+High School: Information Technology
+<!-- 専門: 高度情報処理→AI専攻　<br>
 スクール: Webデザイン専攻　<br>
-高校: 情報技術科　
+高校: 情報技術科　 -->
 <!-- 
 ## 興味分野
 アプリ開発/匿名技術/ブロックチェーン/改造/脱獄 -->
