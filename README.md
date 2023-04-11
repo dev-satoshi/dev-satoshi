@@ -8,10 +8,10 @@ High School: Information Technology Department
 <!-- 専門: 高度情報処理→AI専攻　<br>
 スクール: Webデザイン専攻　<br>
 高校: 情報技術科　 -->
-
+<!-- 
 ## 興味分野
 アプリ開発/匿名技術/ブロックチェーン/改造/脱獄
-
+ -->
 # My Status
 
 <p align="left">
