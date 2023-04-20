@@ -4,7 +4,7 @@ Satoshi (2003〜)<br>
 
 Specialty: Advanced information processing → AI major<br>
 School: Web design major<br>
-<!-- High School: Information Technology Department -->
+High School: Information Technology Department
 <!-- 専門: 高度情報処理→AI専攻　<br>
 スクール: Webデザイン専攻　<br>
 高校: 情報技術科　 -->
