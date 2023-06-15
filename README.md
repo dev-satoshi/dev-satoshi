@@ -5,13 +5,13 @@ Satoshi (2003〜)<br>
 Specialty: Advanced information processing → AI major<br>
 School: Web design major<br>
 High School: Information Technology Department
-<!-- 専門: 高度情報処理→AI専攻　<br>
-スクール: Webデザイン専攻　<br>
-高校: 情報技術科　 -->
-<!-- 
-## 興味分野
-アプリ開発/匿名技術/ブロックチェーン/改造/脱獄
- -->
+
+Frontend<br>
+Next.js(React)かなり勉強中です。<br>
+
+Backend<br>
+Django, Django REST Frameworkが得意です。
+
 # My Status
 
 <p align="left">
