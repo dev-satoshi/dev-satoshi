@@ -6,11 +6,17 @@ Specialty: Advanced information processing → AI major<br>
 School: Web design major<br>
 High School: Information Technology Department
 
+Design<br>
+各種ツール使えます。デザインカンプの作成、基礎的なデザインの知識あります。
+
 Frontend<br>
 Next.js(React)かなり勉強中です。<br>
 
 Backend<br>
 Django, Django REST Frameworkが得意です。
+
+勉強したいこと<br>
+TypeScript, Astro, performance　tuning, ブロックチェーン開発, インフラ
 
 # My Status
 
