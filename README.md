@@ -16,7 +16,7 @@ Backend<br>
 Django, Django REST Frameworkが得意です。
 
 勉強したいこと<br>
-TypeScript, Astro, performance　tuning, ブロックチェーン開発, インフラ
+TypeScript, Astro, performance tuning, ブロックチェーン開発, インフラ
 
 # My Status
 
