@@ -10,13 +10,16 @@ Design<br>
 各種ツール使えます。デザインカンプの作成、基礎的なデザインの知識あります。
 
 Frontend<br>
-Next.js(React)かなり勉強中です。<br>
+TypeScript, Next.js(React), Redux勉強中です。<br>
 
 Backend<br>
 Django, Django REST Frameworkが得意です。
 
+Infrastructure<br>
+AWS, Docker勉強中です。
+
 勉強したいこと<br>
-TypeScript, Astro, performance tuning, ブロックチェーン開発, インフラ
+GraphQL, Astro, performance tuning, ブロックチェーン開発, インフラ
 
 # My Status
 
