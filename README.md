@@ -19,7 +19,7 @@ Infrastructure<br>
 AWS, Docker勉強中です。
 
 勉強したいこと<br>
-GraphQL, Astro, performance tuning, ブロックチェーン開発, インフラ
+Architecture, Astro, Performance Tuning, ブロックチェーン開発, インフラ
 
 # My Status
 
