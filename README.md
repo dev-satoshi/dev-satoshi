@@ -63,29 +63,6 @@ Architecture, Astro, Performance Tuning, ブロックチェーン開発, イン�
 </p>
 
 
-<!-- ## 技術
-言語<br>
-Python/PHP/JS/C/Java/GAS/VB/SQL/HTML/CSS/Sass
-
-フレームワーク<br>
-Django/DRF/Flask/Laravel/Next.js/React.js/MaterialUI/TailwindCSS/BootStrap
-
-DB<br>
-MySQL/SQLite
-
-CMS<br>
-Strapi/microCMS/WordPress
-
-インフラ<br>
-AWS/GCP/Docker/Linux/Nginx/
-
-デザイン系<br>
-Illustrator/Photoshop/Dreamweaver/AdobeXD/Figma/Canva/AfterEffects/Lightroom/DaVinciResolve -->
-
-
-<!-- ## 習得したい
-Golang/Node.js/C++/Flutter/kubernetes/Terraform/ネットワークスペシャリスト/応用情報/情報セキュリティスペシャリスト -->
-
 ![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 <!-- [![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
