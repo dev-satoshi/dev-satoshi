@@ -46,8 +46,6 @@ Architecture, Astro, Performance Tuning, ブロックチェーン開発, イン�
 
 ![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
-<!-- [![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-
 <p align="">
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=dev-satoshi&show_icons=true&theme=tokyonight" />
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satoshi&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=tokyonight" />
