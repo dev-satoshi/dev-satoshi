@@ -16,7 +16,7 @@ Backend<br>
 Django, Django REST Framework
 
 Infrastructure<br>
-AWS,GCP
+AWS, GCP, Docker
 
 勉強したいこと<br>
 Architecture, Astro, Performance Tuning, ブロックチェーン開発, インフラ
