@@ -13,7 +13,7 @@ Frontend<br>
 TypeScript, Next.js(React)<br>
 
 Backend<br>
-Django, Django REST Framework
+Django, Django REST Framework, Flask
 
 Infrastructure<br>
 AWS, GCP, Docker
