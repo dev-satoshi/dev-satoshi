@@ -16,7 +16,7 @@ Backend<br>
 Django, Django REST Framework, Flask
 
 Infrastructure<br>
-AWS, GCP, Docker
+AWS, GCP, Docker, Terraform(勉強中)
 
 勉強したいこと<br>
 Architecture, Astro, Performance Tuning, ブロックチェーン開発, インフラ
