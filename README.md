@@ -1,25 +1,44 @@
 # About Me
 
-Satoshi (2003〜)<br>
+#### Satoshi (2003〜)
 
 Specialty: Advanced information processing → AI major<br>
 School: Web design major<br>
 High School: Information Technology Department
 
-Design<br>
-各種ツール使えます。デザインカンプの作成、基礎的なデザインの知識あります。
+#### Design
+ - Figma
+ - Photoshop
+ - Illustrator
 
-Frontend<br>
-TypeScript, Next.js(React)<br>
+#### Language
+ - Python
+ - TypeScript
+ - JavaScript
+ - PHP
+ - C
 
-Backend<br>
-Django, Django REST Framework, Flask
+#### Frontend
+ - Next.js
+ - React
 
-Infrastructure<br>
-AWS, GCP, Docker, Terraform(勉強中)
+#### Backend
+ - Django
+ - Django REST Framework
+ - Flask
 
-勉強したいこと<br>
-Architecture, Astro, Performance Tuning, ブロックチェーン開発, インフラ
+#### Infrastructure
+ - AWS
+ - GCP
+ - Docker
+ - Terraform(勉強中)
+
+#### What I want to do in the future
+ - Architecture
+ - Astro
+ - Performance Tuning
+ - ブロックチェーン開発
+ - インフラ
 
 # My Status
 
