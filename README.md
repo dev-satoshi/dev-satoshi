@@ -110,6 +110,13 @@ High School: Information Technology Department
  - Let's Encrypt
  - mkcert(ローカルでhttps化する際に使用)
 
+#### Architecture & Principle
+ - CI/CD
+   - GitHub Actions(勉強中)
+ - BFF(Backend For Frontend)(REST APIのデメリットをなくすため)
+ - TDD(Test Driven Development)(勉強中)
+ - DDD(Domain Driven Design)(個人開発、小規模なら効率悪い気がする)
+
 #### Team Development
  - Confluence(ドキュメント管理)
  - Jira(タスク管理)
@@ -118,13 +125,6 @@ High School: Information Technology Department
  - Git・GitHub
    - Prefix
    - ブランチ分割
-
-#### Architecture & Principle
- - CI/CD
-   - GitHub Actions(勉強中)
- - BFF(Backend For Frontend)(REST APIのデメリットをなくすため)
- - TDD(Test Driven Development)(勉強中)
- - DDD(Domain Driven Design)(個人開発、小規模なら効率悪い気がする)
 
 # My Status
 
