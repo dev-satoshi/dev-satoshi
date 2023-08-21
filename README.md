@@ -6,39 +6,125 @@ Specialty: Advanced information processing → AI major<br>
 School: Web design major<br>
 High School: Information Technology Department
 
+#### Passion
+ - アプリ開発
+ - 筋トレ(もやし→高3でベンチ100キロ達成→コロナで-14キロ減り戦意喪失→もやし)
+ - スポーツ(バスケ、サッカー)
+ - 写真・動画(Sonyα7s3かSonyα74欲しい)
+ - Poker
+ - アニメ・映画
+ - 散歩
+ - 法律(コンピュータに関する法律、特に著作権)
+
+#### Curiosity
+ - Architecture
+ - Performance Tuning
+ - Go
+ - Electron
+ - ブロックチェーン開発
+ - Astro
+
+#### Fingerprint
+ - Device
+   - MacBookPro13(M1)
+   - iPad12.9(M1)
+   - iPhone13Pro
+   - iPhone8(testing device)
+   - AQUOSR3(testing device)
+   - RaspberryPi 4(IoT)
+ - OS
+   - MacOS
+   - Ubuntu
+ - Editor
+   - VSCode
+   - Xcode
+   - Vim or Emacs(友達になりたい)
+ - Browser
+   - Chrome
+   - Firefox
+   - Safari
+   - Tor Browser
+   - DuckDuckGo
+
 #### Design
  - Figma
+   - Styles機能
+   - Auto Layout機能
+   - Component機能
  - Photoshop
  - Illustrator
+ - デザインシステム
+ - デザインカンプ作成→コーディングやったことあります
+ - HTML
+   - Pug(少しだけやったことあります)
+   - EJS(少しだけやったことあります)
+ - CSS
+   - BEM記法
+   - Bootstrap
+ - SCSS(あまり使ってない)
 
 #### Language
  - Python
  - TypeScript
  - JavaScript
- - PHP
- - C
+ - PHP(今使うメリットわからない)
+ - C(コンピュータサイエンスでやったくらい)
 
 #### Frontend
- - Next.js
- - React
+ - Next.js(React)
+   - App Router
+   - React Hooks(基本的なのは理解してます)
+   - Storybook(軽く触ったことある程度です)
+ - Material UI
+ - Tailwind CSS
 
 #### Backend
- - Django
- - Django REST Framework
- - Flask
+ - Django(DRF)(基本的にこれを使う、API開発、アプリ開発)
+ - Flask(軽くアプリ作る際に使う)
+ - Database
+   - PostgreSQL
+   - MySQL
+   - SQLite(開発環境だけ)
+   - Redis(勉強中)
+ - ER図書けます
+ - Authentication・Authorization
+ 　- JWT認証
+   - OAuth2.0
+   - OpenID Connect
+   - Auth0(勉強中)
+ - API設計できます
+ - Postman
+ - swagger(OpenAPI)
+ - Sphinx(ドキュメント作ってみたい)
 
 #### Infrastructure
- - AWS
- - GCP
+ - AWS(勉強中)
+ - GCP(あまり使ったことない)
  - Docker
+   - Docker Compose
  - Terraform(勉強中)
+ - Ansible(よくわからない、勉強したい)
+ - Traefik(勉強したい)
+ - Gunicorn
+ - Nginx
+ - Let's Encrypt
+ - mkcert(ローカルでhttps化する際に使用)
 
-#### What I want to do in the future
- - Architecture
- - Astro
- - Performance Tuning
- - ブロックチェーン開発
- - インフラ
+#### Team Development
+ - Confluence(ドキュメント管理)
+ - Jira(タスク管理)
+ - GitHub Projects(issue管理)
+ - アジャイル開発(スクラム)
+ - Git・GitHub
+   - Prefix
+   - ブランチ分割
+
+#### Architecture & Principle
+ - CI/CD
+   - GitHub Actions(勉強中)
+ - BFF(Backend For Frontend)(REST APIのデメリットをなくすため)
+ - TDD(Test Driven Development)(勉強中)
+ - DDD(Domain Driven Design)(個人開発、小規模なら効率悪い気がする)
 
 # My Status
 
