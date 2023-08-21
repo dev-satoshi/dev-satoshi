@@ -88,7 +88,7 @@ High School: Information Technology Department
    - Redis(勉強中)
  - ER図書けます
  - Authentication・Authorization
- 　- JWT認証
+   - JWT認証
    - OAuth2.0
    - OpenID Connect
    - Auth0(勉強中)
