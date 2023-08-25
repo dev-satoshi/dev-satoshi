@@ -73,8 +73,8 @@ High School: Information Technology Department
 #### Frontend
  - Next.js(React)
    - App Router
-   - React Hooks(基本的なのは理解してます)
-   - Storybook(軽く触ったことある程度です)
+   - React Hooks
+ - Storybook(軽く触ったことある程度です)
  - Material UI
  - Tailwind CSS
 
