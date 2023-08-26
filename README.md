@@ -67,8 +67,9 @@ High School: Information Technology Department
  - Python
  - TypeScript
  - JavaScript
- - PHP(今使うメリットわからない)
+ - PHP(高校生の時アプリ開発で使った)
  - C(コンピュータサイエンスでやったくらい)
+ - C++(セキュリティ、暗号で軽くやったくらい)
 
 #### Frontend
  - Next.js(React)
@@ -113,9 +114,9 @@ High School: Information Technology Department
 #### Architecture & Principle
  - CI/CD
    - GitHub Actions(勉強中)
- - BFF(Backend For Frontend)(REST APIのデメリットをなくすため)
+ - BFF(Backend For Frontend)(REST APIのネックを軽減させる)
  - TDD(Test Driven Development)(勉強中)
- - DDD(Domain Driven Design)(個人開発、小規模なら効率悪い気がする)
+ - DDD(Domain Driven Design)(複雑なロジックの時使用)
 
 #### Team Development
  - Confluence(ドキュメント管理)
@@ -123,8 +124,8 @@ High School: Information Technology Department
  - GitHub Projects(issue管理)
  - アジャイル開発(スクラム)
  - Git・GitHub
+   - Git-flow
    - Prefix
-   - ブランチ分割
 
 # My Status
 
