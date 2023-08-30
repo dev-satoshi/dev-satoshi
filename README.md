@@ -56,6 +56,7 @@ High School: Information Technology Department
  - デザインシステム
  - デザインカンプ作成→コーディングやったことあります
  - HTML
+   - Emmet
    - Pug(少しだけやったことあります)
    - EJS(少しだけやったことあります)
  - CSS
