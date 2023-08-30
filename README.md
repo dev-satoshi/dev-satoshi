@@ -5,7 +5,7 @@
 Specialty: Advanced information processing → AI major<br>
 School: Web design major<br>
 High School: Information Technology Department
-
+<!--
 #### Passion
  - アプリ開発
  - 筋トレ(もやし→高3でベンチ100キロ達成→コロナで-14キロ減り戦意喪失→もやし)
@@ -131,7 +131,7 @@ High School: Information Technology Department
 # Community
 HAL東京限定のコミュニティ運営してます！<br>
 https://discord.com/channels/1082025141774589952/1101669015337848933
-
+-->
 # My Status
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
