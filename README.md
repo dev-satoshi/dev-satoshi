@@ -76,8 +76,12 @@ High School: Information Technology Department
  - Next.js(React)
    - App Router
    - React Hooks
+ - Vite
  - Storybook(軽く触ったことある程度です)
+ - Headless UI
  - Material UI
+ - Next UI
+ - Mantine(興味ある)
  - Tailwind CSS
 
 #### Backend
