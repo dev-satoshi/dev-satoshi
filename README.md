@@ -106,6 +106,7 @@ High School: Information Technology Department
 #### Infrastructure
  - AWS(勉強中)
  - GCP(あまり使ったことない)
+ - Heroku
  - Docker
    - Docker Compose
  - Terraform(勉強中)
