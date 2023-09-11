@@ -105,6 +105,7 @@ High School: Information Technology Department
 
 #### Infrastructure
  - AWS(勉強中)
+   - EC2
  - GCP(あまり使ったことない)
  - Heroku
  - Docker
@@ -130,7 +131,8 @@ High School: Information Technology Department
  - GitHub Projects(issue管理)
  - アジャイル開発(スクラム)
  - Git・GitHub
-   - Git-flow
+   - git-flow
+   - github-flow
    - Prefix
   
 # Community
