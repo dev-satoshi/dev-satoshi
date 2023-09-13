@@ -81,6 +81,7 @@ High School: Information Technology Department
  - Headless UI
  - Material UI
  - Next UI
+ - chakra UI
  - Mantine(興味ある)
  - Tailwind CSS
 
