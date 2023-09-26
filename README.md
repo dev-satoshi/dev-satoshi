@@ -6,7 +6,7 @@ Specialty: Advanced information processing → AI major<br>
 School: Web design major<br>
 High School: Information Technology Department
 
-  
+<!--
 # Community
 HAL東京限定のコミュニティ運営してます！<br>
 https://discord.com/channels/1082025141774589952/1101669015337848933
