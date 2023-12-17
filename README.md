@@ -39,6 +39,14 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | [Webパーツ](https://github.com/dev-satoshi/Web-Parts) | Webのパーツを集めたリポジトリ ※PureなHTML, CSS, JSで書いてます |
 
 
+# Products in Progress
+| Products | Discription |
+| :-- | :-- |
+| [awesome-development-rurls](https://github.com/dev-satoshi/development-rules) | 初学者向けに開発ルールなどまとめてます！ |
+| [Django-Starter-Template](https://github.com/dev-satoshi/Django-Starter-Template) | Djangoのスターターテンプレート ※パッケージ化したい！ |
+| [Gear-6](https://github.com/dev-satoshi/Gear-6) | トップシークレット |
+
+
 # My Status
 ![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
