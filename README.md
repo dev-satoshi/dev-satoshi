@@ -6,6 +6,19 @@ Specialty: Advanced information processing → AI major<br>
 School: Web design major<br>
 High School: Information Technology Department
 
+
+# Products＆Athers
+| Products | Discription |
+| :-- | :-- |
+| [LookThis!](https://github.com/dev-satoshi/supporters-hackathon_2023_vol12) | 自分しか知らない穴場スポットを共有する掲示板サイト ※サンドボックスにする予定 |
+| [Task Brancher]() | AI技術を駆使した革命的なタスク管理ツール(企業賞3つ頂きました^ ^) ※現在リプレイス中|
+| [あなたの課題を一緒に管理しますくん]() | 学校の課題を管理するLINE Bot ※完成しなかったので時間のある時作成する |
+| [Matcher](https://github.com/dev-satoshi/supporters-hackathon_2023_vol10/tree/develop) | 言語学習を希望する人たちが気軽に交流できる、掲示板風のマッチングアプリ |
+| [推しリマインド](https://github.com/dev-satoshi/supporters-hackathon_2023_vol9) | Fine-tuning済みの推しキャラ(アーニャ)が、リーディングリストの期限が過ぎるとリマインドしてくれるアプリ ※モデルは非公開 |
+| [HEW1]() | 1年生の時のコンテストで作成したTech Blog ※現在リプレイス中 |
+| [ダメ！ブロック！]() | 情に訴えかける簡易的な広告ブロック対策 ※リプレイス中 |
+
+
 <!--
 # Community
 HAL東京限定のコミュニティ運営してます！<br>
