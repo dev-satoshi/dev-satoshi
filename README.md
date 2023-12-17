@@ -12,11 +12,15 @@ HAL東京限定のコミュニティ運営してます！<br>
 https://discord.com/channels/1082025141774589952/1101669015337848933
 -->
 
-# My Status
+# Languages＆Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,python,react,nextjs,django,flask,tailwind,bootstrap)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=aws,heroku,docker,linux,postgres,mysql,redis,sqlite,nginx)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,figma,vscode,vim,git,github,postman,raspberrypi)](https://skillicons.dev)
 
+# Certification Badge
+<img width="125" alt="image_20231217004838" src="https://github.com/dev-satoshi/dev-satoshi/assets/102169197/831e5ca0-ed56-4bfc-91e0-5dad21fc3a2f">
+
+# My Status
 ![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 <p align="">
