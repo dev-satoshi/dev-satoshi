@@ -14,6 +14,7 @@ High School: Information Technology Department
 | [Task Brancher]() | AI技術を駆使した革命的なタスク管理ツール(企業賞3つ頂きました^ ^) ※現在リプレイス中|
 | [あなたの課題を一緒に管理しますくん]() | 学校の課題を管理するLINE Bot ※完成しなかったので時間のある時作成する |
 | [Matcher](https://github.com/dev-satoshi/supporters-hackathon_2023_vol10/tree/develop) | 言語学習を希望する人たちが気軽に交流できる、掲示板風のマッチングアプリ |
+| [おくすりコネクト](https://protopedia.net/prototype/4673) | 海外で日本の市販薬をシェアするアプリ |
 | [推しリマインド](https://github.com/dev-satoshi/supporters-hackathon_2023_vol9) | Fine-tuning済みの推しキャラ(アーニャ)が、リーディングリストの期限が過ぎるとリマインドしてくれるアプリ ※モデルは非公開 |
 | [HEW1]() | 1年生の時のコンテストで作成したTech Blog ※現在リプレイス中 |
 | [ダメ！ブロック！]() | 情に訴えかける簡易的な広告ブロック対策 ※リプレイス中 |
