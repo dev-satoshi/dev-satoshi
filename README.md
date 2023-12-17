@@ -19,7 +19,7 @@ High School: Information Technology Department
 | [HEW1]() | 1年生の時のコンテストで作成したTech Blog ※現在リプレイス中 |
 | [ダメ！ブロック！]() | 情に訴えかける簡易的な広告ブロック対策 ※リプレイス中 |
 | [QRコードジェネレーター](https://github.com/dev-satoshi/create-qrcode) | QRコードを生成するスクリプト ※見ない方が良いw |
-
+| [Webパーツ](https://github.com/dev-satoshi/Web-Parts) | Webのパーツを集めたリポジトリ ※PureなHTML, CSS, JSで書いてます) |
 
 
 <!--
