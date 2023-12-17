@@ -7,7 +7,7 @@ School: Web design major<br>
 High School: Information Technology Department
 
 
-# Products＆Athers
+# Products
 | Products | Discription |
 | :-- | :-- |
 | [LookThis!](https://github.com/dev-satoshi/supporters-hackathon_2023_vol12) | 自分しか知らない穴場スポットを共有する掲示板サイト ※サンドボックスにする予定 |
