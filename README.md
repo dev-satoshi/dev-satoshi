@@ -16,10 +16,10 @@ High School: Information Technology Department
 | [Matcher](https://github.com/dev-satoshi/supporters-hackathon_2023_vol10/tree/develop) | 言語学習を希望する人たちが気軽に交流できる、掲示板風のマッチングアプリ |
 | [おくすりコネクト](https://protopedia.net/prototype/4673) | 海外で日本の市販薬をシェアするアプリ |
 | [推しリマインド](https://github.com/dev-satoshi/supporters-hackathon_2023_vol9) | Fine-tuning済みの推しキャラ(アーニャ)が、リーディングリストの期限が過ぎるとリマインドしてくれるアプリ ※モデルは非公開 |
-| [HEW1]() | 1年生の時のコンテストで作成したTech Blog ※現在リプレイス中 |
+| [HEW1](https://github.com/dev-satoshi/HEW1) | 1年生の時のコンテストで作成したTech Blog ※まだPushしてない |
 | [ダメ！ブロック！]() | 情に訴えかける簡易的な広告ブロック対策 ※リプレイス中 |
 | [QRコードジェネレーター](https://github.com/dev-satoshi/create-qrcode) | QRコードを生成するスクリプト ※見ない方が良いw |
-| [Webパーツ](https://github.com/dev-satoshi/Web-Parts) | Webのパーツを集めたリポジトリ ※PureなHTML, CSS, JSで書いてます) |
+| [Webパーツ](https://github.com/dev-satoshi/Web-Parts) | Webのパーツを集めたリポジトリ ※PureなHTML, CSS, JSで書いてます |
 
 
 <!--
