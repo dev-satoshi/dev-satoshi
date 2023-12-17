@@ -17,6 +17,7 @@ High School: Information Technology Department
 | [おくすりコネクト](https://protopedia.net/prototype/4673) | 海外で日本の市販薬をシェアするアプリ |
 | [推しリマインド](https://github.com/dev-satoshi/supporters-hackathon_2023_vol9) | Fine-tuning済みの推しキャラ(アーニャ)が、リーディングリストの期限が過ぎるとリマインドしてくれるアプリ ※モデルは非公開 |
 | [HEW1]() | 1年生の時のコンテストで作成したTech Blog ※現在リプレイス中 |
+| [QRコードジェネレーター](https://github.com/dev-satoshi/create-qrcode) | QRコードを生成するスクリプト ※見ない方が良いw |
 | [ダメ！ブロック！]() | 情に訴えかける簡易的な広告ブロック対策 ※リプレイス中 |
 
 
