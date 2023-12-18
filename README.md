@@ -11,6 +11,12 @@ High School: Information Technology Department
 -->
 
 <!--
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/dev-satoshi/posts.svg)](http://qiita.com/dev-satoshi)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/dev-satoshi/contributions.svg)](http://qiita.com/dev-satoshi)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/dev-satoshi/followers.svg)](http://qiita.com/dev-satoshi)
+-->
+
+<!--
 <p>
   <a href="https://github.com/dev-satoshi">
     <img height="20" src="https://img.shields.io/github/followers/dev-satoshi?label=follow&logo=github&style=flat" />
