@@ -48,7 +48,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | [Gear-6](https://github.com/dev-satoshi/Gear-6) | トップシークレット |
 
 
-# My Status
+# Activity
 ![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 <p align="">
