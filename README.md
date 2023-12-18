@@ -6,6 +6,24 @@ Specialty: Advanced information processing → AI major<br>
 School: Web design major<br>
 High School: Information Technology Department
 
+<!--
+![](https://komarev.com/ghpvc/?username=your-github-dev-satoshi&style=flat)
+-->
+
+<!--
+<p>
+  <a href="https://github.com/dev-satoshi">
+    <img height="20" src="https://img.shields.io/github/followers/dev-satoshi?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+-->
+
+<!--
+#### Connect with me
+<p>
+  <a href="https://twitter.com/devsatoshimain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devsatoshimain" height="30" width="40" /></a>
+</p>
+-->
 
 <!--
 # Community
