@@ -49,7 +49,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 
 # Products
-| Products | Discription |
+| Products | Description |
 | :-- | :-- |
 | [LookThis!](https://github.com/dev-satoshi/supporters-hackathon_2023_vol12) | 自分しか知らない穴場スポットを共有する掲示板サイト ※サンドボックスにする予定 |
 | [Task Brancher]() | AI技術を駆使した革命的なタスク管理ツール(企業賞3つ頂きました^ ^) ※現在リプレイス中|
@@ -64,7 +64,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 
 # Products in Progress
-| Products | Discription |
+| Products | Description |
 | :-- | :-- |
 | [awesome-development-rurls](https://github.com/dev-satoshi/development-rules) | 初学者向けに開発ルールなどまとめてます！ |
 | [Start Up](https://github.com/dev-satoshi/Start-Up) | プロジェクトを始める際に便利なテンプレートです |
