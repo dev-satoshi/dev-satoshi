@@ -66,7 +66,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 # Products in Progress
 | Products | Description |
 | :-- | :-- |
-| [awesome-development-rurls](https://github.com/dev-satoshi/development-rules) | 初学者向けに開発ルールなどまとめてます！ |
+| [awesome-development-rules](https://github.com/dev-satoshi/development-rules) | 初学者向けに開発ルールなどまとめてます！ |
 | [Start Up](https://github.com/dev-satoshi/Start-Up) | プロジェクトを始める際に便利なテンプレートです |
 | [Django-Starter-Template](https://github.com/dev-satoshi/Django-Starter-Template) | Djangoのスターターテンプレート ※パッケージ化したい！ |
 | [Tech Blog](https://github.com/dev-satoshi/Tech-Blog) | リプレイス中 |
