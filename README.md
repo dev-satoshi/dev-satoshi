@@ -7,6 +7,11 @@ School: Web design major<br>
 High School: Information Technology Department
 
 <!--
+<a href="https://twitter.com/DevSat0shi/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/satoshi-nosaka-2181b7293/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
+-->
+
+<!--
 ![](https://komarev.com/ghpvc/?username=your-github-dev-satoshi&style=flat)
 -->
 
