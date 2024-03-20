@@ -68,7 +68,6 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | [QRコードジェネレーター](https://github.com/dev-satoshi/create-qrcode) | QRコードを生成するスクリプト ※見ない方が良いw |
 | [Webパーツ](https://github.com/dev-satoshi/Web-Parts) | Webのパーツを集めたリポジトリ ※PureなHTML, CSS, JSで書いてます |
 
-
 # Products in Progress
 | Products | Description |
 | :-- | :-- |
@@ -78,6 +77,11 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | [Django-Starter-Template](https://github.com/dev-satoshi/Django-Starter-Template) | Djangoのスターターテンプレート ※パッケージ化したい！ |
 | [Tech Blog](https://github.com/dev-satoshi/Tech-Blog) | リプレイス中 |
 | [Gear-6](https://github.com/dev-satoshi/Gear-6) | トップシークレット |
+
+# Private
+| Products | Description |
+| :-- | :-- |
+| [dotfiles](https://github.com/dev-satoshi/dotfiles) | dotfilesをまとめてます |
 
 
 # Activity
