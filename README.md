@@ -2,9 +2,9 @@
 
 #### Satoshi (2003〜)
 
-Specialty: Advanced information processing → AI major<br>
-School: Web design major<br>
-High School: Information Technology Department
+Specialty：Advanced information processing → AI major<br>
+School：Web design major<br>
+High School：Information Technology Department
 
 <!--
 <a href="https://twitter.com/DevSat0shi/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter"></a>
