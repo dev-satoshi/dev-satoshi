@@ -82,6 +82,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | Products | Description |
 | :-- | :-- |
 | [dotfiles](https://github.com/dev-satoshi/dotfiles) | dotfilesをまとめてます |
+| [Start Up](https://github.com/dev-satoshi/Start-Up) | 開発を始める前のテンプレ |
 
 
 # Activity
