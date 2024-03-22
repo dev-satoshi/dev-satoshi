@@ -94,7 +94,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 ![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 <p align="">
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=dev-satoshi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=dev-satoshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits&prs_merged" />
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satoshi&hide=html,css&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
