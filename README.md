@@ -53,6 +53,13 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 <img width="75" height="75" alt="image_20231217004838" src="https://github.com/dev-satoshi/dev-satoshi/assets/102169197/831e5ca0-ed56-4bfc-91e0-5dad21fc3a2f">
 
 
+# Speaking
+date | event | style | presentation title
+--- | --- | --- | ---
+2023-12-06 | [学生ユーザー限定！Progateオフィス見学会 ＆ 交流会](https://progate.connpass.com/event/303584) | LT (5 min) | [知らなかったじゃ済まない！著作権編]()
+2023-11-12 | [LAHのLT会（自分が運営しているコミュニティのLT会）※非公開](//https://00m.in/yJrxj) | LT (30 min) | [チーム開発、スクラム開発]() 
+
+
 # Recommended Products
 | Products | Description |
 | :-- | :-- |
