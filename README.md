@@ -54,21 +54,21 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 
 # Speaking
-date | event | style | presentation title
---- | --- | --- | ---
+|date | event | style | presentation title|
+| --- | --- | --- | --- |
 2023-12-06 | [学生ユーザー限定！Progateオフィス見学会 ＆ 交流会](https://progate.connpass.com/event/303584) | LT (5 min) | [知らなかったじゃ済まない！著作権編]()
 2023-11-12 | [LAHのLT会（自分が運営しているコミュニティのLT会）※非公開](//https://00m.in/yJrxj) | LT (30 min) | [チーム開発、スクラム開発]() 
 
 
 # Recommended Products
-| Products | Description |
-| :-- | :-- |
+ products | description |
+| --- | --- |
 | [Awesome Development Rules](https://github.com/dev-satoshi/awesome-development-rules) | 初学者向けに開発ルールやTipsなどをまとめてます！ |
 | [Awesome Learning Resources](https://github.com/dev-satoshi/awesome-learning-resources) | 初学者向けに勉強のリソースをまとめてます！ |
 
 # Products
-| Products | Description |
-| :-- | :-- |
+| products | description |
+| --- | --- |
 | [タイピングゲーム]() | エンジニア向けのタイピングゲームです。 |
 | [LookThis!](https://github.com/dev-satoshi/supporters-hackathon_2023_vol12) | 自分しか知らない穴場スポットを共有する掲示板サイト ※サンドボックスにする予定 |
 | [Task Brancher]() | AI技術を駆使した革命的なタスク管理ツール(企業賞3つ頂きました^ ^) ※現在リプレイス中|
@@ -82,8 +82,8 @@ date | event | style | presentation title
 | [Webパーツ](https://github.com/dev-satoshi/Web-Parts) | Webのパーツを集めたリポジトリ ※PureなHTML, CSS, JSで書いてます |
 
 # Products in Progress
-| Products | Description |
-| :-- | :-- |
+| products | description |
+| --- | --- |
 | [Start Up](https://github.com/dev-satoshi/Start-Up) | プロジェクトを始める際に便利なテンプレートです |
 | [Django-Starter-Template](https://github.com/dev-satoshi/Django-Starter-Template) | Djangoのスターターテンプレート ※パッケージ化したい！ |
 | [Tech Blog](https://github.com/dev-satoshi/Tech-Blog) | リプレイス中 |
@@ -91,8 +91,8 @@ date | event | style | presentation title
 | [Loophole](https://github.com/orgs/https-github-com-lah/teams/top-secret-mission/repositories) | トップシークレット＆リプレイス中 |
 
 # Private Use
-| Products | Description |
-| :-- | :-- |
+| products | description |
+| --- | --- |
 | [dotfiles](https://github.com/dev-satoshi/dotfiles) | dotfilesをまとめてます |
 | [Start Up](https://github.com/dev-satoshi/Start-Up) | 開発を始める前のテンプレ |
 | [Django Sandbox](https://github.com/dev-satoshi/Django-Sandbox) | Djangoの遊び場 |
