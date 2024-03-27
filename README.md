@@ -87,8 +87,8 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | [Start Up](https://github.com/dev-satoshi/Start-Up) | プロジェクトを始める際に便利なテンプレートです |
 | [Django-Starter-Template](https://github.com/dev-satoshi/Django-Starter-Template) | Djangoのスターターテンプレート ※パッケージ化したい！ |
 | [Tech Blog](https://github.com/dev-satoshi/Tech-Blog) | リプレイス中 |
-| [Gear-6](https://github.com/dev-satoshi/Gear-6) | トップシークレット |
 | [安全地帯](https://github.com/dev-satoshi/safety-zone) | 「安全地帯」は、旅行先や出張先などで、治安の良し悪しや危険な場所、災害や事故などの安否情報をリアルタイムで提供するサービスです。 |
+| [Gear-6](https://github.com/dev-satoshi/Gear-6) | トップシークレット |
 | [Loophole](https://github.com/orgs/https-github-com-lah/teams/top-secret-mission/repositories) | トップシークレット＆リプレイス中 |
 
 # Private Use
