@@ -54,14 +54,14 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 
 # Speaking
-|date | event | style | presentation title|
+| date | event | style | presentation title |
 | --- | --- | --- | --- |
-2023-12-06 | [学生ユーザー限定！Progateオフィス見学会 ＆ 交流会](https://progate.connpass.com/event/303584) | LT (5 min) | [知らなかったじゃ済まない！著作権編]()
-2023-11-12 | [LAHのLT会（自分が運営しているコミュニティのLT会）※非公開](//https://00m.in/yJrxj) | LT (30 min) | [チーム開発、スクラム開発]() 
+| 2023-12-06 | [学生ユーザー限定！Progateオフィス見学会 ＆ 交流会](https://progate.connpass.com/event/303584) | LT (5 min) | [知らなかったじゃ済まない！著作権編]() |
+| 2023-11-12 | [LAHのLT会（自分が運営しているコミュニティのLT会）※非公開](//https://00m.in/yJrxj) | LT (30 min) | [チーム開発、スクラム開発]() |
 
 
 # Recommended Products
- products | description |
+| products | description |
 | --- | --- |
 | [Awesome Development Rules](https://github.com/dev-satoshi/awesome-development-rules) | 初学者向けに開発ルールやTipsなどをまとめてます！ |
 | [Awesome Learning Resources](https://github.com/dev-satoshi/awesome-learning-resources) | 初学者向けに勉強のリソースをまとめてます！ |
