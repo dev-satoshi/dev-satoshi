@@ -98,6 +98,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | [Start Up](https://github.com/dev-satoshi/Start-Up) | 開発を始める前のテンプレ |
 | [School Work](https://github.com/dev-satoshi/schoolwork) | 学校の課題をまとめてます |
 | [Algorithms DataStructures](https://github.com/dev-satoshi/Algorithms-DataStructures) | アルゴリズムとデータ構造の勉強 |
+| [hotnabe](https://github.com/dev-satoshi/hotnabe) | 設計とかその他諸々の遊び場 |
 | [Django Sandbox](https://github.com/dev-satoshi/Django-Sandbox) | Djangoの遊び場 |
 
 
