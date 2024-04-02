@@ -64,7 +64,9 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | products | description |
 | --- | --- |
 | [Awesome Development Rules](https://github.com/dev-satoshi/awesome-development-rules) | 初学者向けに開発ルールやTipsなどをまとめてます！ |
-| [Awesome Learning Resources](https://github.com/dev-satoshi/awesome-learning-resources) | 初学者向けに勉強のリソースをまとめてます！ |
+| [Awesome Learning Resources](https://github.com/dev-satoshi/awesome-learning-resources) | 初学者向けに勉強のリソースをまとめてます！ ※準備中 |
+| [Design Patterns](https://github.com/dev-satoshi/Design-Patterns) | いろんな言語でDesign Patternsを実装 ※準備中 |
+
 
 # Products
 | products | description |
