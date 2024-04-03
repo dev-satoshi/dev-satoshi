@@ -72,6 +72,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 # Products
 | products | description |
 | --- | --- |
+| [掲示板](https://github.com/dev-satoshi/nextjs-bbs-practice) | App Directoryのキャッチアップのために作成した掲示板アプリです。 |
 | [タイピングゲーム](https://github.com/dev-satoshi/geekcamp2023-tokyo-caravan) | エンジニア向けのタイピングゲームです。 |
 | [LookThis!](https://github.com/dev-satoshi/supporters-hackathon_2023_vol12) | 自分しか知らない穴場スポットを共有する掲示板サイト ※サンドボックスにする予定 |
 | [Task Brancher]() | AI技術を駆使した革命的なタスク管理ツール(企業賞3つ頂きました^ ^) ※現在リプレイス中|
