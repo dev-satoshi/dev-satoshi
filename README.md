@@ -115,7 +115,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 <p align="">
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=dev-satoshi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satoshi&hide=html,css,scss,mdx&langs_count=10&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-satoshi&hide=html,css,scss,mdx,mako&langs_count=10&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <img alt="trophy" height="180px" src="https://github-profile-trophy.vercel.app/?username=dev-satoshi&theme=tokyonight&column=8)](https://github.com/ryo-ma/github-profile-trophy&no-frame=true" />
