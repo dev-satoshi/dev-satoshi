@@ -72,6 +72,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 # Products
 | products | description |
 | --- | --- |
+| [Progate Hackathon 2](https://github.com/dev-satoshi/Progate-Hackathon-2) | 面談の管理とお悩み相談ができるFukui AI（Discord Bot） |
 | [GMO DevSecOpsThon](https://github.com/dev-satoshi/DevSecOpsThon-2024) | コンテストで作成したAIチャットボット。 |
 | [掲示板](https://github.com/dev-satoshi/nextjs-bbs-practice) | App Directoryのキャッチアップのために作成した掲示板アプリです。 |
 | [タイピングゲーム](https://github.com/dev-satoshi/geekcamp2023-tokyo-caravan) | エンジニア向けのタイピングゲームです。 |
