@@ -106,6 +106,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | [School Work](https://github.com/dev-satoshi/schoolwork) | 学校の課題をまとめてます |
 | [Algorithms DataStructures](https://github.com/dev-satoshi/Algorithms-DataStructures) | アルゴリズムとデータ構造の勉強 |
 | [hotnabe](https://github.com/dev-satoshi/hotnabe) | 設計とかその他諸々の遊び場 |
+| [Language Sandbox](https://github.com/dev-satoshi/Language-Sandbox) | 各プログラミング言語の遊び場 |
 | [Django Sandbox](https://github.com/dev-satoshi/Django-Sandbox) | Djangoの遊び場 |
 | [Front-end Sandbox](https://github.com/dev-satoshi/Front-end-Sandbox) | フロントエンドの遊び場 |
 | [GitHub Actions Sandbox](https://github.com/dev-satoshi/github-actions-sandbox) | GitHub Actionsの遊び場 |
