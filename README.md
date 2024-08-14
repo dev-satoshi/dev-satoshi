@@ -56,7 +56,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 # Contributions
 
 
-# Speaking
+# Lightning Talk
 | date | event | style | presentation title |
 | --- | --- | --- | --- |
 | 2023-12-06 | [学生ユーザー限定！Progateオフィス見学会 ＆ 交流会](https://progate.connpass.com/event/303584) | LT (5 min) | [知らなかったじゃ済まない！著作権編]() |
