@@ -53,6 +53,9 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 <img width="75" height="75" alt="image_20231217004838" src="https://github.com/dev-satoshi/dev-satoshi/assets/102169197/831e5ca0-ed56-4bfc-91e0-5dad21fc3a2f">
 
 
+# Contributions
+
+
 # Speaking
 | date | event | style | presentation title |
 | --- | --- | --- | --- |
