@@ -13,14 +13,6 @@ High School：Information Technology Department
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](url) -->
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:youremail@example.com) -->
 
-<!--
-<a href="https://twitter.com/DevSat0shi/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter"></a>
-<a href="https://www.linkedin.com/in/satoshi-nosaka-2181b7293/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
--->
-
-<!--
-![](https://komarev.com/ghpvc/?username=your-github-dev-satoshi&style=flat)
--->
 
 <!--
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/dev-satoshi/posts.svg)](http://qiita.com/dev-satoshi)
