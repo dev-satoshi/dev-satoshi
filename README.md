@@ -6,6 +6,9 @@ Specialty：Advanced information processing → AI major<br>
 School：Web design major<br>
 High School：Information Technology Department
 
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DevSat0shi)
+
+
 <!--
 <a href="https://twitter.com/DevSat0shi/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter"></a>
 <a href="https://www.linkedin.com/in/satoshi-nosaka-2181b7293/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"></a>
