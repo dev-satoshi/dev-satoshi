@@ -7,7 +7,7 @@ School：Web design major<br>
 High School：Information Technology Department
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DevSat0shi)
-
+[![Qiita](https://img.shields.io/badge/Qiita-%2355C500.svg?logo=Qiita&logoColor=white)](https://qiita.com/dev-satoshi)
 
 <!--
 <a href="https://twitter.com/DevSat0shi/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter"></a>
