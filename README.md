@@ -11,6 +11,7 @@ High School：Information Technology Department
 [![Zenn](https://img.shields.io/badge/Zenn-%2300C7B7.svg?logo=Zenn&logoColor=white)](https://zenn.dev/satoshi_1016)
 <!-- [![daily.dev](https://img.shields.io/badge/daily.dev-%23000000.svg?logo=daily.dev&logoColor=white)](https://app.daily.dev/dev_satoshi) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](url) -->
+<!-- [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:youremail@example.com) -->
 
 <!--
 <a href="https://twitter.com/DevSat0shi/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter"></a>
