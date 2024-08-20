@@ -14,6 +14,9 @@ High School：Information Technology Department
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:youremail@example.com) -->
 
 
+<!-- [![](https://visitcount.itsvg.in/api?id=dev-satoshi&icon=0&color=6)](https://visitcount.itsvg.in) -->
+
+
 <!--
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/dev-satoshi/posts.svg)](http://qiita.com/dev-satoshi)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/dev-satoshi/contributions.svg)](http://qiita.com/dev-satoshi)
