@@ -56,6 +56,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 
 # OSS Contribution
+- [react.dev](https://github.com/reactjs/react.dev)
 - [sentry-python](https://github.com/getsentry/sentry-python)
 - [Yamada UI](https://github.com/yamada-ui/yamada-ui)
 
