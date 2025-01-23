@@ -61,32 +61,32 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 - [Yamada UI](https://github.com/yamada-ui/yamada-ui)
 
 
+<!--
 # Lightning Talk
 | date | event | style | presentation title |
 | --- | --- | --- | --- |
 | 2023-12-06 | [学生ユーザー限定！Progateオフィス見学会 ＆ 交流会](https://progate.connpass.com/event/303584) | LT (5 min) | [知らなかったじゃ済まない！著作権編]() |
 | 2023-11-12 | [LAHのLT会（自分が運営しているコミュニティのLT会）※非公開](//https://00m.in/yJrxj) | LT (30 min) | [チーム開発、スクラム開発]() |
-
+-->
 
 # Recommended Products
 | products | description |
 | --- | --- |
 | [Awesome Development Rules](https://github.com/dev-satoshi/awesome-development-rules) | 初学者向けに開発ルールやTipsなどをまとめてます！ |
-| [Awesome Learning Resources](https://github.com/dev-satoshi/awesome-learning-resources) | 初学者向けに勉強のリソースをまとめてます！ ※準備中 |
-| [SOLID Principle](https://github.com/dev-satoshi/SOLID-Principle) | いろんな言語でSOLID原則を説明！ ※準備中 |
+| [SOLID Principle](https://github.com/dev-satoshi/SOLID-Principle) | いろんな言語でSOLID原則を実装 ※準備中 |
 | [Design Patterns](https://github.com/dev-satoshi/Design-Patterns) | いろんな言語でDesign Patternsを実装 ※準備中 |
-
 
 # Products
 | products | description |
 | --- | --- |
-| [Progate Hackathon 2](https://github.com/dev-satoshi/Progate-Hackathon-2) | 面談の管理とお悩み相談ができるFukui AI（Discord Bot） |
 | [GMO DevSecOpsThon](https://github.com/dev-satoshi/DevSecOpsThon-2024) | コンテストで作成したAIチャットボット |
 | [掲示板](https://github.com/dev-satoshi/nextjs-bbs-practice) | App Directoryのキャッチアップのために作成した掲示板アプリ |
-| [タイピングゲーム](https://github.com/dev-satoshi/geekcamp2023-tokyo-caravan) | エンジニア向けのタイピングゲーム |
+| [安全地帯](https://github.com/dev-satoshi/safety-zone) | 「安全地帯」は、現在地、旅行先や出張先などで、治安の良し悪しや危険な場所、災害や事故などの安否情報をリアルタイムで提供するサービス |
+| [Progate Hackathon 2](https://github.com/dev-satoshi/Progate-Hackathon-2) | 面談の管理とお悩み相談ができるFukui AI（Discord Bot） |
 | [LookThis!](https://github.com/dev-satoshi/supporters-hackathon_2023_vol12) | 自分しか知らない穴場スポットを共有する掲示板サイト |
+| [タイピングゲーム](https://github.com/dev-satoshi/geekcamp2023-tokyo-caravan) | エンジニア向けのタイピングゲーム |
 | [Task Brancher]() | AI技術を駆使した革命的なタスク管理ツール(企業賞3つ頂きました^ ^) ※現在リプレイス中　|
-| [あなたの課題を一緒に管理しますくん]() | 学校の課題を管理するLINE Bot ※完成しなかったので時間のある時作成する |
+| [あなたの課題を一緒に管理しますくん]() | 学校の課題を管理するLINE Bot |
 | [Matcher](https://github.com/dev-satoshi/supporters-hackathon_2023_vol10/tree/develop) | 言語学習を希望する人たちが気軽に交流できる、掲示板風のマッチングアプリ |
 | [おくすりコネクト](https://protopedia.net/prototype/4673) | 海外で日本の市販薬をシェアするアプリ |
 | [推しリマインド](https://github.com/dev-satoshi/supporters-hackathon_2023_vol9) | Fine-tuning済みの推しキャラ(アーニャ)が、リーディングリストの期限が過ぎるとリマインドしてくれるアプリ ※モデルは非公開 |
@@ -95,29 +95,6 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | [ダメ！ブロック！]() | 情に訴えかける簡易的な広告ブロック対策 ※リプレイス中 |
 | [QRコードジェネレーター](https://github.com/dev-satoshi/create-qrcode) | QRコードを生成するスクリプト |
 | [Webパーツ](https://github.com/dev-satoshi/Web-Parts) | Webのパーツを集めたリポジトリ ※PureなHTML, CSS, JSで書いてます |
-
-# Products in Progress
-| products | description |
-| --- | --- |
-| [Start Up](https://github.com/dev-satoshi/Start-Up) | プロジェクトを始める際に便利なテンプレート |
-| [Django-Starter-Template](https://github.com/dev-satoshi/Django-Starter-Template) | Djangoのスターターテンプレート ※パッケージ化したい！ |
-| [Tech Blog](https://github.com/dev-satoshi/Tech-Blog) | リプレイス中 |
-| [安全地帯](https://github.com/dev-satoshi/safety-zone) | 「安全地帯」は、現在地、旅行先や出張先などで、治安の良し悪しや危険な場所、災害や事故などの安否情報をリアルタイムで提供するサービス |
-| [Loophole](https://github.com/orgs/https-github-com-lah/teams/top-secret-mission/repositories) | トップシークレット＆リプレイス中 |
-
-# Private Use
-| products | description |
-| --- | --- |
-| [dotfiles](https://github.com/dev-satoshi/dotfiles) | dotfilesをまとめてる |
-| [Start Up](https://github.com/dev-satoshi/Start-Up) | 開発を始める前のテンプレ |
-| [School Work](https://github.com/dev-satoshi/schoolwork) | 学校の課題をまとめてます |
-| [Algorithms DataStructures](https://github.com/dev-satoshi/Algorithms-DataStructures) | アルゴリズムとデータ構造の勉強 |
-| [hotnabe](https://github.com/dev-satoshi/hotnabe) | 設計とかその他諸々の遊び場 |
-| [Language Sandbox](https://github.com/dev-satoshi/Language-Sandbox) | 各プログラミング言語の遊び場 |
-| [Django Sandbox](https://github.com/dev-satoshi/Django-Sandbox) | Djangoの遊び場 |
-| [Front-end Sandbox](https://github.com/dev-satoshi/Front-end-Sandbox) | フロントエンドの遊び場 |
-| [GitHub Actions Sandbox](https://github.com/dev-satoshi/github-actions-sandbox) | GitHub Actionsの遊び場 |
-
 
 # Activity
 ![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
