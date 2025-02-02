@@ -101,7 +101,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 <p align="">
   <img alt="github stats" height="180px" src="https://github-readme-stats-dev-satoshi.vercel.app/api?username=dev-satoshi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats-dev-satoshi.vercel.app/api/top-langs/?username=dev-satoshi&size_weight=0.5&count_weight=0.5&hide=html,css,scss,cython,mdx,mako,roff,PowerShell&langs_count=10&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats-dev-satoshi.vercel.app/api/top-langs/?username=dev-satoshi&size_weight=0.5&count_weight=0.5&exclude_repo=cheat,todoapp-github-flow-tutorial,switch-light-dark,sidebar-navigation-menu,blog-fullstack-old,moisen-hackathon,python-practice,python-game-practice,Django-Sandbox&hide=html,css,scss,cython,mdx,mako,roff,PowerShell&langs_count=10&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <img alt="trophy" height="180px" src="https://github-profile-trophy.vercel.app/?username=dev-satoshi&theme=tokyonight&column=8)](https://github.com/ryo-ma/github-profile-trophy&no-frame=true" />
