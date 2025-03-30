@@ -46,7 +46,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 
 # Languages＆Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,python,react,nextjs,django,flask,tailwind,bootstrap)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,python,dart,react,nextjs,django,flask,flutter,tailwind,bootstrap)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=aws,heroku,docker,linux,postgres,mysql,redis,sqlite,nginx)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=ai,ps,figma,vscode,vim,git,github,postman,raspberrypi)](https://skillicons.dev)
 
