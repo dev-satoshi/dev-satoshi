@@ -101,7 +101,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 ![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 <p align="">
-  <img alt="github stats" height="180px" src="https://github-readme-stats-dev-satoshi.vercel.app/api?username=dev-satoshi&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats-dev-satoshi.vercel.app/api?username=dev-satoshi&count_private=true&include_all_commits=true&cache_seconds=1&theme=tokyonight&hide_border=true"/>
   <img alt="Top Langs" height="180px" src="https://github-readme-stats-dev-satoshi.vercel.app/api/top-langs/?username=dev-satoshi&size_weight=0.5&count_weight=0.5&exclude_repo=cheat,django-meetup-tokyo-12,Django-MeetupTokyo-13,todoapp-github-flow-tutorial,switch-light-dark,sidebar-navigation-menu,blog-fullstack-old,moisen-hackathon,python-practice,python-game-practice,Django-Sandbox&hide=html,css,scss,cython,mdx,mako,roff,PowerShell,Dockerfile,vue,Makefile&langs_count=10&layout=compact&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
