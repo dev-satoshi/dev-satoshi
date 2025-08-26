@@ -57,6 +57,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 
 # OSS Contribution
+- [Formbricks](https://github.com/formbricks/formbricks)
 - [sentry-python](https://github.com/getsentry/sentry-python)
 - [react.dev](https://github.com/reactjs/react.dev)
 - [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci)
