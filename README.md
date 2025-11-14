@@ -61,7 +61,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 - [Formbricks](https://github.com/formbricks/formbricks/pulls?q=is%3Apr+author%3Adev-satoshi+is%3Aclosed)
 - [sentry-python](https://github.com/getsentry/sentry-python/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
 - [react.dev](https://github.com/GoogleChrome/lighthouse-ci/pull/1086#issue-2686383878)
-- [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci)
+- [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
 - [Yamada UI](https://github.com/yamada-ui/yamada-ui)
 
 
