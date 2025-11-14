@@ -57,7 +57,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 
 # OSS Contribution
-- [flutter-janus-client](https://github.com/januscaler/flutter_janus_client)
+- [flutter-janus-client](https://github.com/januscaler/flutter_janus_client/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
 - [Formbricks](https://github.com/formbricks/formbricks)
 - [sentry-python](https://github.com/getsentry/sentry-python)
 - [react.dev](https://github.com/reactjs/react.dev)
