@@ -62,7 +62,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 - [sentry-python](https://github.com/getsentry/sentry-python/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
 - [react.dev](https://github.com/reactjs/react.dev/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
 - [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
-- [Yamada UI](https://github.com/yamada-ui/yamada-ui)
+- [Yamada UI](https://github.com/yamada-ui/yamada-ui/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
 
 
 
