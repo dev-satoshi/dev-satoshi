@@ -56,6 +56,11 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 <img width="75" height="75" alt="image_20231217004838" src="https://github.com/dev-satoshi/dev-satoshi/assets/102169197/831e5ca0-ed56-4bfc-91e0-5dad21fc3a2f">
 
 
+# Awards
+- JPHACKS：企業賞3つ受賞（GMO賞、Hexabase賞、ウルシステムズ賞）
+- GMO DevSecOpsThon2024：2位
+
+
 # OSS Contribution
 - [flutter-janus-client](https://github.com/januscaler/flutter_janus_client/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
 - [Formbricks](https://github.com/formbricks/formbricks/pulls?q=is%3Apr+author%3Adev-satoshi+is%3Aclosed)
