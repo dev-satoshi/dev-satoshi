@@ -79,6 +79,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | 2023-11-12 | [LAHのLT会（自分が運営しているコミュニティのLT会）※非公開](//https://00m.in/yJrxj) | LT (30 min) | [チーム開発、スクラム開発]() |
 -->
 
+<!--
 # Recommended Products
 | products | description |
 | --- | --- |
@@ -105,6 +106,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | [ダメ！ブロック！]() | 情に訴えかける簡易的な広告ブロック対策 ※リプレイス中 |
 | [QRコードジェネレーター](https://github.com/dev-satoshi/create-qrcode) | QRコードを生成するスクリプト |
 | [Webパーツ](https://github.com/dev-satoshi/Web-Parts) | Webのパーツを集めたリポジトリ ※PureなHTML, CSS, JSで書いてます |
+-->
 
 # Activity
 ![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
