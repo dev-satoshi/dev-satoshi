@@ -6,12 +6,15 @@ Specialty：Advanced information processing → AI major<br>
 School：Web design major<br>
 High School：Information Technology Department
 
-Fields：Mobile / Frontend / Backend / Infrastructure
+<!--
+### Fields
+Mobile / Frontend / Backend / Infrastructure
 
-Interests：
+### Interests
 - Authentication & Authorization
 - Streaming & Realtime
 - Software Architecture & Design Patterns
+-->
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DevSat0shi)
 [![Qiita](https://img.shields.io/badge/Qiita-%2355C500.svg?logo=Qiita&logoColor=white)](https://qiita.com/dev-satoshi)
@@ -19,7 +22,6 @@ Interests：
 <!-- [![daily.dev](https://img.shields.io/badge/daily.dev-%23000000.svg?logo=daily.dev&logoColor=white)](https://app.daily.dev/dev_satoshi) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](url) -->
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:youremail@example.com) -->
-
 
 <!-- [![](https://visitcount.itsvg.in/api?id=dev-satoshi&icon=0&color=6)](https://visitcount.itsvg.in) -->
 
