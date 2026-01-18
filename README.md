@@ -6,6 +6,13 @@ Specialty：Advanced information processing → AI major<br>
 School：Web design major<br>
 High School：Information Technology Department
 
+Fields：Mobile / Frontend / Backend / Infrastructure
+
+Interests：
+- Authentication & Authorization
+- Streaming & Realtime
+- Software Architecture & Design Patterns
+
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/DevSat0shi)
 [![Qiita](https://img.shields.io/badge/Qiita-%2355C500.svg?logo=Qiita&logoColor=white)](https://qiita.com/dev-satoshi)
 [![Zenn](https://img.shields.io/badge/Zenn-%2300C7B7.svg?logo=Zenn&logoColor=white)](https://zenn.dev/satoshi_1016)
