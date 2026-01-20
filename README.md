@@ -71,6 +71,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 
 # OSS Contribution
+- [shaka-player](https://github.com/shaka-project/shaka-player/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
 - [flutter-janus-client](https://github.com/januscaler/flutter_janus_client/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
 - [Formbricks](https://github.com/formbricks/formbricks/pulls?q=is%3Apr+author%3Adev-satoshi+is%3Aclosed)
 - [sentry-python](https://github.com/getsentry/sentry-python/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
