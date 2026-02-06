@@ -71,6 +71,12 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 
 # OSS Contribution
+### 🔥 Ongoing Contributions
+- [WebKit](https://bugs.webkit.org/show_bug.cgi?id=294381)
+- [WebKit Documentation](https://github.com/WebKit/Documentation/pulls/dev-satoshi)
+- [Better Player](https://github.com/jhomlala/betterplayer/issues/1407#issue-3142604807)
+
+### ✅ Completed Contributions
 - [shaka-player](https://github.com/shaka-project/shaka-player/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
 - [flutter-janus-client](https://github.com/januscaler/flutter_janus_client/pulls?q=is%3Apr+is%3Aclosed+author%3Adev-satoshi)
 - [Formbricks](https://github.com/formbricks/formbricks/pulls?q=is%3Apr+author%3Adev-satoshi+is%3Aclosed)
