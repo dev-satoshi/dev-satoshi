@@ -66,8 +66,8 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 
 
 # Awards
-- JPHACKS 2023：企業賞3つ受賞（GMO賞、Hexabase賞、ウルシステムズ賞）
 - GMO DevSecOpsThon 2024：2位
+- JPHACKS 2023：企業賞3つ受賞（GMO賞、Hexabase賞、ウルシステムズ賞）
 
 
 # OSS Contribution
