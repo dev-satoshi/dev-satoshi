@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/default/4-productive-time.svg)
-```
-
-    
