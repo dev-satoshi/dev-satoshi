@@ -125,6 +125,7 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 | [Webパーツ](https://github.com/dev-satoshi/Web-Parts) | Webのパーツを集めたリポジトリ ※PureなHTML, CSS, JSで書いてます |
 -->
 
+<!--
 # Activity
 ![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
@@ -134,3 +135,4 @@ https://discord.com/channels/1082025141774589952/1101669015337848933
 </p>
 
 <img alt="trophy" height="180px" src="https://github-profile-trophy-mka8plvaj-devsatoshis-projects.vercel.app/?username=dev-satoshi&theme=tokyonight&column=8&no-frame=true" />
+-->
