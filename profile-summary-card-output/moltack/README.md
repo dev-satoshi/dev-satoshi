@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/moltack/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/dev-satoshi/dev-satoshi/main/profile-summary-card-output/moltack/4-productive-time.svg)
+```
+
+    
